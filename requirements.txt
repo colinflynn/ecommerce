@@ -1,0 +1,6 @@
+Django==1.11.2
+npm==0.1.1
+olefile==0.44
+optional-django==0.1.0
+Pillow==4.1.1
+pytz==2017.2
